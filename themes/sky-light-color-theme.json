@@ -1,5 +1,5 @@
 {
-	"name": "Pastel Sky Bright Theme",
+	"name": "Pastel Sky Theme",
 	"type": "light",
 	"colors": {
 		"editor.background": "#e3e8f2",
@@ -32,7 +32,7 @@
 		"list.errorForeground": "#0029b1",
 		"quickInput.background": "#cad3e1",
 		"quickInput.foreground": "#747e8e",
-		"pickerGroup.foreground": "#6b7078",
+		"pickerGroup.foreground": "#6b7078"
 	},
 	"tokenColors": [
 		{

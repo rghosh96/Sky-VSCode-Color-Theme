@@ -39,9 +39,14 @@
     "contributes": {
         "themes": [
             {
-                "label": "Pastel Sky Theme",
+                "label": "Pastel Sky Light Theme",
                 "uiTheme": "vs",
-                "path": "./themes/Pastel Sky Theme-color-theme.json"
+                "path": "./themes/sky-light-color-theme.json"
+            },
+            {
+                "label": "Pastel Sky Bright Theme",
+                "uiTheme": "vs",
+                "path": "./themes/sky-bright-color-theme.json"
             }
         ]
     }
