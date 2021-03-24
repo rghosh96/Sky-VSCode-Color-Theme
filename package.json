@@ -1,0 +1,48 @@
+{
+    "name": "pastel-sky-theme",
+    "displayName": "Pastel Sky Theme",
+    "description": "a relaxing, monochromatic pastel blue theme reminiscent of clear skies for your vs code!",
+    "version": "0.0.1",
+    "publisher": "Shira",
+    "author": {
+        "name": "shira"
+    },
+    "engines": {
+        "vscode": "^1.54.0"
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/rghosh96/Sky-VSCode-Color-Theme.git"
+    },
+    "galleryBanner": {
+        "color": "#e3e8f2",
+        "theme": "light"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "keywords": [
+        "pastel",
+        "sky",
+        "skies",
+        "blue",
+        "calm",
+        "quiet",
+        "Light Theme",
+        "light",
+        "theme",
+        "monochromatic",
+        "muted",
+        "color",
+        "monochrome"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Pastel Sky Theme",
+                "uiTheme": "vs",
+                "path": "./themes/Pastel Sky Theme-color-theme.json"
+            }
+        ]
+    }
+}
