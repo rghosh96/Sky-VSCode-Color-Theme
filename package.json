@@ -34,7 +34,9 @@
         "monochromatic",
         "muted",
         "color",
-        "monochrome"
+        "monochrome",
+        "bright",
+        "contrast"
     ],
     "contributes": {
         "themes": [
