@@ -1,4 +1,4 @@
-# VSCode Forest Color Theme
+# VSCode Sky Color Theme
 
 ## Dreamy. Monochromatic. Blue Skies-Inspired.
 
